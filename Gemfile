@@ -32,14 +32,14 @@ gem 'omniauth-slc', '0.0.2'
 # HTTP Party Rockin
 gem 'httparty'
 # Twitter bootstrap baby
-gem 'twitter-bootstrap-rails', '2.1.6'
+gem 'twitter-bootstrap-rails' #, '2.1.6'
 # JSON
 gem 'json'
 # Lib V8 Javascript Engine
 gem 'libv8'
 # Jquery Goodness
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
+gem 'jquery-rails', '2.1.4'
+gem 'jquery-ui-rails', '2.0.2'
 # Google Analytics
 gem 'google-analytics-rails'
 
